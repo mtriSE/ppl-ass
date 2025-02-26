@@ -1,0 +1,6 @@
+[submodule "ass1"]
+	path = ass1
+	url = https://github.com/mtriSE/ass1.git
+[submodule "ass2"]
+	path = ass2
+	url = https://github.com/mtriSE/ass2.git
