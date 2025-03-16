@@ -4,3 +4,6 @@
 [submodule "ass2"]
 	path = ass2
 	url = https://github.com/mtriSE/ass2.git
+[submodule "ass3"]
+	path = ass3
+	url = https://github.com/mtriSE/ass3.git
