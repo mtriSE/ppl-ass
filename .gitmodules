@@ -10,3 +10,6 @@
 [submodule "draft-ass3"]
 	path = draft-ass3
 	url = https://github.com/mtriSE/ppl-ass3-example.git
+[submodule "ass4"]
+	path = ass4
+	url = https://github.com/mtriSE/ass4
