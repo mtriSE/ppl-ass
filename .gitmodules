@@ -7,3 +7,6 @@
 [submodule "ass3"]
 	path = ass3
 	url = https://github.com/mtriSE/ass3.git
+[submodule "votien-ass3"]
+	path = votien-ass3
+	url = https://github.com/mtriSE/ppl-ass3-example.git
